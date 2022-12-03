@@ -1,4 +1,3 @@
-from ssl import OP_ENABLE_MIDDLEBOX_COMPAT
 from tkinter import *
 
 def start():
